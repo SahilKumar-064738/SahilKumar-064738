@@ -150,15 +150,6 @@ class SahilKumar:
 
 </div>
 
-**Notable contributions:**
-
-- **`kestra-io/plugin-kubernetes`** — Fixed pod log output parsing in the `PodCreate` task (Kubernetes DevOps tooling)
-- **`kshashikumar/mysql-gui`** — Resolved outdated dependencies + SonarQube code quality violations (Node.js/Electron)
-- **`NSPC911/rovr`** — Fixed file handling in folder preview and batch-delete in select mode
-- **`swcitg/Freshers_Portal`** — Three merged PRs: layout fixes, responsive design, department section overhaul (React.js)
-- **`junobuild/juno`** — Added E2E test asserting satellite creation constraints (Frontend testing)
-- **`oliexdev/openScale`** — Authored Health Coach → openScale CSV converter script (Python + Pandas)
-
 ---
 
 ### 🔬 RESEARCH
@@ -166,16 +157,6 @@ class SahilKumar:
 **NLP for Low-Code/No-Code Automation** — _Scrivener Wiley, Peer-Reviewed Book Chapter (2026)_
 
 Co-authored a chapter on translating natural language into executable automation workflows using transformers, intent classification, and semantic parsing. Proposed evaluation frameworks for automation fidelity under ambiguous/adversarial inputs.
-
----
-
-### 🏅 ACHIEVEMENTS
-
-| Award                                            | Details                                                             |
-| ------------------------------------------------ | ------------------------------------------------------------------- |
-| 🥈 **State Runner-Up + Medallion of Excellence** | IndiaSkills 2025–26 — Ministry of Skill Development, Govt. of India |
-| 🇮🇳 **National Selection**                        | Smart India Hackathon & Toycathon (2020–21)                         |
-| 💡 **Inspire Award (MANAK)**                     | Government of India Innovation Grant — ₹10,000 (2019)               |
 
 ---
 

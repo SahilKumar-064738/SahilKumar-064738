@@ -101,19 +101,6 @@ class SahilKumar:
     }
 ```
 
----
-
-### 🚀 ABOUT
-
-- 🏗️ **Architected a multi-tenant SaaS CRM** (Salez.online) handling **10,000+ interactions/day** at **sub-200ms p99 latency** — queue-based, event-driven, deployed on AWS with zero-downtime CI/CD.
-- ⚡ **Reduced API latency by 40%** by redesigning PostgreSQL execution plans, applying selective indexing, and connection pooling; collapsed analytics load time from **3.2s to sub-1s** via Redis caching.
-- 🏛️ **Re-architected a live academic platform** serving **1,500+ concurrent users** at CCET — migrated legacy DHTML to React.js, cut bundle size **~35%**, and eliminated N+1 API bottlenecks.
-- 🔬 **Published NLP researcher** — co-authored a Wiley/Scrivener peer-reviewed chapter on translating natural language into production automation workflows using transformers and semantic parsing (2026).
-- 🥈 **State Runner-Up, IndiaSkills 2025–26** — ranked **2nd at state level**, Medallion of Excellence at regional level (Ministry of Skill Development & Entrepreneurship, Govt. of India).
-- 🌍 **70+ open-source PRs merged** across Kubernetes plugins, CI/CD systems, e-commerce platforms, and frontend repositories.
-
----
-
 ### 🛠️ TECH STACK
 
 <p align="center">
@@ -140,39 +127,6 @@ class SahilKumar:
   <strong>Infra / DevOps</strong><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" />
 </p>
-
----
-
-### 📦 PROJECTS
-
-#### [`Salez.online`](https://github.com/SahilKumar-064738) — Multi-Tenant SaaS CRM
-
-> **Problem:** Enterprise CRM platforms don't offer true multi-tenancy with WhatsApp + IVR integration at scale.
-
-| What I Built                                                       | Impact                                              |
-| ------------------------------------------------------------------ | --------------------------------------------------- |
-| Queue-based, event-driven async pipeline (Node.js + FastAPI)       | **10,000+ interactions/day** at **sub-200ms p99**   |
-| Strict tenant isolation, RBAC, audit logging across WhatsApp + IVR | Zero tenant data bleed in production                |
-| PostgreSQL query plan redesign + indexing + Redis caching layer    | API latency **↓ 40%**, analytics **3.2s → sub-1s**  |
-| Containerised microservices on AWS with full CI/CD                 | Zero-downtime deploys, fault-isolated burst traffic |
-
-`Node.js` `FastAPI` `PostgreSQL` `Redis` `React.js` `AWS` `Docker` `Microservices`
-
----
-
-#### `CCET Platform` — Live Academic Infrastructure (ccet.ac.in)
-
-> **Problem:** A production academic platform for 1,500+ users with a brittle legacy frontend and bottlenecked APIs.
-
-| What I Built                                                                | Impact                                                     |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Migrated legacy DHTML → modular React.js with code-splitting & lazy loading | Bundle size **↓ ~35%**, measurably improved TTI            |
-| Redesigned PHP REST API response structures + query indexing                | Eliminated N+1 patterns, resolved cascading latency spikes |
-| Architectural overhaul to eliminate single points of failure                | Sustained concurrent load without degradation              |
-
-`React.js` `PHP` `REST APIs` `Performance Engineering`
-
----
 
 ### 🔬 RESEARCH
 

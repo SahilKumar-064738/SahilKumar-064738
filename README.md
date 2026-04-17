@@ -1,9 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Sahil+Kumar;Backend+%26+Systems+Engineer;SaaS+Architect;Distributed+Systems+Builder;AI-Assisted+Engineering" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=888&center=true&vCenter=true&width=800&lines=Designing+fault-tolerant+systems+%E2%80%94+not+just+writing+code+that+runs.;10%2C000%2B+interactions%2Fday+%7C+sub-200ms+p99+%7C+1%2C500%2B+concurrent+users;70%2B+open-source+PRs+merged+%7C+Published+NLP+researcher+(Wiley%2FScrivener)" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=888&center=true&vCenter=true&width=800&lines=Designing+fault-tolerant+systems+%E2%80%94+not+just+writing+code+that+runs.;70%2B+open-source+PRs+merged+%7C+Published+NLP+researcher+(Wiley%2FScrivener)" alt="Subtitle" />
 </p>
 
 <div align="center">

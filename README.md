@@ -29,27 +29,45 @@ class SahilKumar:
         self.ships      = ["Multi-tenant SaaS CRM", "Event-driven async pipelines",
                            "NLP automation research (Wiley/Scrivener, 2026)"]
 
-    def numbers(self):
-        return {
-            "interactions_per_day" : "10,000+",
-            "p99_latency"          : "sub-200ms",
-            "concurrent_users"     : "1,500+",
-            "api_latency_reduction": "40%",
-            "analytics_load_time"  : "3.2s → sub-1s (Redis cache)",
-            "open_source_prs"      : "70+ merged",
-            "cgpa"                 : "8.5 / 10",
-        }
-
     def stack(self):
-        return {
-            "languages" : ["C++", "Python", "JavaScript (ES6+)", "SQL"],
-            "backend"   : ["Node.js", "Express.js", "FastAPI", "WebSockets",
-                           "Event-Driven Architecture", "Microservices"],
-            "databases" : ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-            "cloud_ops" : ["AWS", "Docker", "CI/CD", "Linux"],
-            "ai_nlp"    : ["RAG", "LLM APIs", "Pinecone", "Transformers",
-                           "Intent Classification", "Semantic Parsing"],
-        }
+    return {
+        "languages": [
+            "C++", "Python", "JavaScript (ES6+)", "SQL"
+        ],
+
+        "backend_systems": [
+            "Node.js", "Express.js", "FastAPI",
+            "REST APIs", "WebSockets",
+            "Event-Driven Architecture", "Microservices",
+            "Queue-Based Pipelines"
+        ],
+
+        "distributed_systems": [
+            "Concurrency Control", "Idempotent Execution",
+            "Horizontal Scalability", "Fault Tolerance",
+            "System Design"
+        ],
+
+        "databases": [
+            "PostgreSQL (query plans, indexing, connection pooling)",
+            "MongoDB", "MySQL", "Redis (caching, pub/sub)"
+        ],
+
+        "cloud_devops": [
+            "AWS", "Docker", "CI/CD", "Linux"
+        ],
+
+        "ai_llm": [
+            "RAG", "LLM APIs", "Pinecone",
+            "Tool Calling",
+            "NLP (transformers, intent classification, semantic parsing)"
+        ],
+
+        "frontend": [
+            "React.js", "JavaScript (ES6+)",
+            "HTML5", "CSS3", "Tailwind CSS"
+        ]
+    }
 ```
 
 ---

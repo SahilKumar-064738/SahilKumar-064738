@@ -18,6 +18,20 @@
 
 ---
 
+### 🏆 OPEN SOURCE — ACHIEVEMENTS
+
+<div align="center">
+
+**70+ merged PRs across production-grade global repositories**
+
+  <a href="https://www.holopin.io/@sahilkumar064738">
+    <img src="https://holopin.me/sahilkumar064738" alt="Holopin Badges" />
+  </a>
+
+</div>
+
+---
+
 ### ⚙️ SYSTEM.PROFILE
 
 ```python
@@ -140,20 +154,6 @@ class SahilKumar:
 | Architectural overhaul to eliminate single points of failure                | Sustained concurrent load without degradation              |
 
 `React.js` `PHP` `REST APIs` `Performance Engineering`
-
----
-
-### 🏆 OPEN SOURCE — ACHIEVEMENTS
-
-<div align="center">
-
-**70+ merged PRs across production-grade global repositories**
-
-  <a href="https://www.holopin.io/@sahilkumar064738">
-    <img src="https://holopin.me/sahilkumar064738" alt="Holopin Badges" />
-  </a>
-
-</div>
 
 ---
 

@@ -87,17 +87,22 @@ class SahilKumar:
 
 <p align="center">
   <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,sql&theme=dark" />
 </p>
 
 <p align="center">
-  <strong>Backend / Systems</strong><br/>
+  <strong>Backend & Systems</strong><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,postgres,mongodb,mysql&theme=dark" />
 </p>
 
 <p align="center">
   <strong>AI / ML</strong><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" />
 </p>
 
 <p align="center">

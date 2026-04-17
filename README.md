@@ -1,17 +1,202 @@
-<h1 align="center">Hi 👋, I'm SAHIL KUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Sahil+Kumar;Backend+%26+Systems+Engineer;SaaS+Architect;Distributed+Systems+Builder;AI-Assisted+Engineering" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkumar-064738" alt="sahilkumar-064738" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=888&center=true&vCenter=true&width=800&lines=Designing+fault-tolerant+systems+%E2%80%94+not+just+writing+code+that+runs.;10%2C000%2B+interactions%2Fday+%7C+sub-200ms+p99+%7C+1%2C500%2B+concurrent+users;70%2B+open-source+PRs+merged+%7C+Published+NLP+researcher+(Wiley%2FScrivener)" alt="Subtitle" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SahilKumar-064738&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://www.holopin.io/@sahilkumar064738">
+    <img src="https://img.shields.io/badge/Holopin-Open_Source_Badges-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SK064738">
+    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilkumar-064738&show_icons=true&locale=en&layout=compact" alt="sahilkumar-064738" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkumar-064738&show_icons=true&locale=en" alt="sahilkumar-064738" /></p>
+### ⚙️ SYSTEM.PROFILE
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar-064738&" alt="sahilkumar-064738" /></p>
+```python
+class SahilKumar:
+    def __init__(self):
+        self.role       = "Backend & Systems Engineer"
+        self.focus      = "Distributed infra, SaaS architecture, AI-assisted engineering"
+        self.location   = "Chandigarh, India"
+        self.ships      = ["Multi-tenant SaaS CRM", "Event-driven async pipelines",
+                           "NLP automation research (Wiley/Scrivener, 2026)"]
+
+    def numbers(self):
+        return {
+            "interactions_per_day" : "10,000+",
+            "p99_latency"          : "sub-200ms",
+            "concurrent_users"     : "1,500+",
+            "api_latency_reduction": "40%",
+            "analytics_load_time"  : "3.2s → sub-1s (Redis cache)",
+            "open_source_prs"      : "70+ merged",
+            "cgpa"                 : "8.5 / 10",
+        }
+
+    def stack(self):
+        return {
+            "languages" : ["C++", "Python", "JavaScript (ES6+)", "SQL"],
+            "backend"   : ["Node.js", "Express.js", "FastAPI", "WebSockets",
+                           "Event-Driven Architecture", "Microservices"],
+            "databases" : ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+            "cloud_ops" : ["AWS", "Docker", "CI/CD", "Linux"],
+            "ai_nlp"    : ["RAG", "LLM APIs", "Pinecone", "Transformers",
+                           "Intent Classification", "Semantic Parsing"],
+        }
+```
+
+---
+
+### 🚀 ABOUT
+
+- 🏗️ **Architected a multi-tenant SaaS CRM** (Salez.online) handling **10,000+ interactions/day** at **sub-200ms p99 latency** — queue-based, event-driven, deployed on AWS with zero-downtime CI/CD.
+- ⚡ **Reduced API latency by 40%** by redesigning PostgreSQL execution plans, applying selective indexing, and connection pooling; collapsed analytics load time from **3.2s to sub-1s** via Redis caching.
+- 🏛️ **Re-architected a live academic platform** serving **1,500+ concurrent users** at CCET — migrated legacy DHTML to React.js, cut bundle size **~35%**, and eliminated N+1 API bottlenecks.
+- 🔬 **Published NLP researcher** — co-authored a Wiley/Scrivener peer-reviewed chapter on translating natural language into production automation workflows using transformers and semantic parsing (2026).
+- 🥈 **State Runner-Up, IndiaSkills 2025–26** — ranked **2nd at state level**, Medallion of Excellence at regional level (Ministry of Skill Development & Entrepreneurship, Govt. of India).
+- 🌍 **70+ open-source PRs merged** across Kubernetes plugins, CI/CD systems, e-commerce platforms, and frontend repositories.
+
+---
+
+### 🛠️ TECH STACK
+
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>Backend / Systems</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,postgres,mongodb,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>AI / ML</strong><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>Infra / DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&theme=dark" />
+</p>
+
+---
+
+### 📦 PROJECTS
+
+#### [`Salez.online`](https://github.com/SahilKumar-064738) — Multi-Tenant SaaS CRM
+
+> **Problem:** Enterprise CRM platforms don't offer true multi-tenancy with WhatsApp + IVR integration at scale.
+
+| What I Built                                                       | Impact                                              |
+| ------------------------------------------------------------------ | --------------------------------------------------- |
+| Queue-based, event-driven async pipeline (Node.js + FastAPI)       | **10,000+ interactions/day** at **sub-200ms p99**   |
+| Strict tenant isolation, RBAC, audit logging across WhatsApp + IVR | Zero tenant data bleed in production                |
+| PostgreSQL query plan redesign + indexing + Redis caching layer    | API latency **↓ 40%**, analytics **3.2s → sub-1s**  |
+| Containerised microservices on AWS with full CI/CD                 | Zero-downtime deploys, fault-isolated burst traffic |
+
+`Node.js` `FastAPI` `PostgreSQL` `Redis` `React.js` `AWS` `Docker` `Microservices`
+
+---
+
+#### `CCET Platform` — Live Academic Infrastructure (ccet.ac.in)
+
+> **Problem:** A production academic platform for 1,500+ users with a brittle legacy frontend and bottlenecked APIs.
+
+| What I Built                                                                | Impact                                                     |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Migrated legacy DHTML → modular React.js with code-splitting & lazy loading | Bundle size **↓ ~35%**, measurably improved TTI            |
+| Redesigned PHP REST API response structures + query indexing                | Eliminated N+1 patterns, resolved cascading latency spikes |
+| Architectural overhaul to eliminate single points of failure                | Sustained concurrent load without degradation              |
+
+`React.js` `PHP` `REST APIs` `Performance Engineering`
+
+---
+
+### 🏆 OPEN SOURCE — ACHIEVEMENTS
+
+<div align="center">
+
+**70+ merged PRs across production-grade global repositories**
+
+  <a href="https://www.holopin.io/@sahilkumar064738">
+    <img src="https://holopin.me/sahilkumar064738" alt="Holopin Badges" />
+  </a>
+
+</div>
+
+**Notable contributions:**
+
+- **`kestra-io/plugin-kubernetes`** — Fixed pod log output parsing in the `PodCreate` task (Kubernetes DevOps tooling)
+- **`kshashikumar/mysql-gui`** — Resolved outdated dependencies + SonarQube code quality violations (Node.js/Electron)
+- **`NSPC911/rovr`** — Fixed file handling in folder preview and batch-delete in select mode
+- **`swcitg/Freshers_Portal`** — Three merged PRs: layout fixes, responsive design, department section overhaul (React.js)
+- **`junobuild/juno`** — Added E2E test asserting satellite creation constraints (Frontend testing)
+- **`oliexdev/openScale`** — Authored Health Coach → openScale CSV converter script (Python + Pandas)
+
+---
+
+### 🔬 RESEARCH
+
+**NLP for Low-Code/No-Code Automation** — _Scrivener Wiley, Peer-Reviewed Book Chapter (2026)_
+
+Co-authored a chapter on translating natural language into executable automation workflows using transformers, intent classification, and semantic parsing. Proposed evaluation frameworks for automation fidelity under ambiguous/adversarial inputs.
+
+---
+
+### 🏅 ACHIEVEMENTS
+
+| Award                                            | Details                                                             |
+| ------------------------------------------------ | ------------------------------------------------------------------- |
+| 🥈 **State Runner-Up + Medallion of Excellence** | IndiaSkills 2025–26 — Ministry of Skill Development, Govt. of India |
+| 🇮🇳 **National Selection**                        | Smart India Hackathon & Toycathon (2020–21)                         |
+| 💡 **Inspire Award (MANAK)**                     | Government of India Innovation Grant — ₹10,000 (2019)               |
+
+---
+
+### 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar-064738&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKumar-064738&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar-064738&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilKumar-064738&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+</p>
+
+---
+
+### 🌐 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com/in/sahil-kumar-0b7aa3330">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SahilKumar-064738">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sahilkumar064738@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/SK064738">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer&fontSize=14&fontColor=ffffff&animation=twinkling&text=Building+systems+that+scale.+Not+just+code+that+runs." />
+</p>

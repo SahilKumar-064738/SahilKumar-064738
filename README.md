@@ -130,7 +130,7 @@ class SahilKumar:
 
 ### 🔬 RESEARCH
 
-**NLP for Low-Code/No-Code Automation** — _Scrivener Wiley, Peer-Reviewed Book Chapter (2026)_
+**NLP for Low-Code/No-Code** — _Scrivener Wiley, Peer-Reviewed Book Chapter (2026)_
 
 Co-authored a chapter on translating natural language into executable automation workflows using transformers, intent classification, and semantic parsing. Proposed evaluation frameworks for automation fidelity under ambiguous/adversarial inputs.
 

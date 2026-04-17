@@ -32,6 +32,23 @@
 
 ---
 
+### 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar-064738&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKumar-064738&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar-064738&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilKumar-064738&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+</p>
+
+---
+
 ### ⚙️ SYSTEM.PROFILE
 
 ```python
@@ -162,23 +179,6 @@ class SahilKumar:
 **NLP for Low-Code/No-Code Automation** — _Scrivener Wiley, Peer-Reviewed Book Chapter (2026)_
 
 Co-authored a chapter on translating natural language into executable automation workflows using transformers, intent classification, and semantic parsing. Proposed evaluation frameworks for automation fidelity under ambiguous/adversarial inputs.
-
----
-
-### 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar-064738&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKumar-064738&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar-064738&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahilKumar-064738&theme=tokyo-night&bg_color=00000000&hide_border=true" />
-</p>
 
 ---
 
